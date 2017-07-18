@@ -8,7 +8,7 @@ Unite is the place to unlock the full creative potential of the Unity engine, me
 
 ---
 
-### "People have been using Unity for <span style="color: #e49436; text-transform: none">non-gaming</span> things for years"
+### "People have been using Unity for <span style="color: #e49436; text-transform: none">NON-GAMING</span> things for years"
 <br>
 <span style="color:gray; font-size:0.6em;">[ Ric Cowley ]</span>
 
@@ -21,23 +21,23 @@ Unite is the place to unlock the full creative potential of the Unity engine, me
 
 ---
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+<span style="color: #e49436">1. INDUSTRY GROWTH</span>
 
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
+![MARKDOWN](https://venturebeat.com/wp-content/uploads/2014/08/unity-mobile-game-growth.jpg?resize=838%2C465&strip=all)
 
 Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
 
 ---
 
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
+<span style="color: #e49436">2. COMMUNITY SUPPORT</span>
 
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
+![TERMINAL](https://venturebeat.com/wp-content/uploads/2014/08/unity-productivity1.jpg?resize=847%2C466&strip=all)
 
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
+Unity Asset Store. As shown above, the amount saved per year adds up to $1.4 billion.
 
 ---
 
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
+<span style="color: #e49436">3. MARKET INTEREST</span>
 
 <br>
 
