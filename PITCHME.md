@@ -1,6 +1,6 @@
 ![LOGO](https://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-logo-white.png)
 
-#### AN INDUSTRY CHANCE FOR GROWTH
+#### AN INDUSTRY OF GROWTH
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
 <br>
