@@ -1,6 +1,6 @@
 ![LOGO](https://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-logo-white.png)
 
-#### AN INDUSTRY OF GROWTH
+#### THE FUTURE COMMUNITY OF GROWTH
 <br>
 <span style="color:gray">
 Unite is the place to unlock the full creative potential of the Unity engine, meet up and brainstorm with Unity experts and industry leaders, and get a peek at what Unity will bring you in the future.
