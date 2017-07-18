@@ -30,20 +30,22 @@ $1.4 billion saved per year with Unity Asset Store.
 
 ---
 
-<span style="color: #e49436">3. MARKET INTEREST</span>
+<span style="color: #e49436">3. THE FUTURE</span>
 
 <br>
 
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
+<span style="font-size: 1.3em;">
+<span style="color:white">Leading the <span style="color: #e49436">XR</span> Revolution</span>
+</span>
 
 <br>
 
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+Unity is the most widely used VR development platform, and over 91% of HoloLens experiences are Made with Unity.
 
 ---
 
 ### WHAT DO YOU SAY?
-### Will <span style="color: #e49436; text-transform: none">Send us to unite 2017</span> ;)
+### WILL YOU <span style="color: #e49436; text-transform: none">SEND US TO UNITE 2017</span> ;)
 
 ---
 
