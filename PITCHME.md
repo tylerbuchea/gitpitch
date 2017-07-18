@@ -42,32 +42,14 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ---
 
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
-
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
-
----
-
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
-
----
-
 ### Go for it.
 ### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+
+---
+
+<span style="color: #e49436">RE</span>SOURCES
+
+- http://www.pocketgamer.biz/interview/66142/unity-interview-unite-europe-2017/
+- https://venturebeat.com/2014/08/20/unity-ceo-were-helping-indie-game-devs-save-and-make-big-bucks/
+- https://unite.unity.com/
+- https://unity3d.com/public-relations
