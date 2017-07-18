@@ -1,6 +1,6 @@
-![LOGO](https://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-logo-white.png)
+![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
 
-#### AN INDUSTRY CHANCE FOR GROWTH
+#### Get the word out
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
 <br>
