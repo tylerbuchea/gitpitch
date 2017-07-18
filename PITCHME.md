@@ -14,18 +14,11 @@ Unite is the place to unlock the full creative potential of the Unity engine, me
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
-
----
-
 <span style="color: #e49436">1. INDUSTRY GROWTH</span>
 
 ![MARKDOWN](https://unity3d.com/profiles/unity3d/themes/unity/images/company/pr/unity-video-game-market.jpg)
 
-34% of top 1000 free mobile games are Made with Unity
+Thirty-four percent of top games are made with Unity
 
 ---
 
@@ -33,7 +26,7 @@ Unite is the place to unlock the full creative potential of the Unity engine, me
 
 ![TERMINAL](https://venturebeat.com/wp-content/uploads/2014/08/unity-productivity1.jpg?resize=847%2C466&strip=all)
 
-Through the Unity Asset Store. As shown above, the amount saved per year adds up to $1.4 billion.
+$1.4 billion saved per year with Unity Asset Store.
 
 ---
 
