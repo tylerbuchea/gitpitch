@@ -42,8 +42,8 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ---
 
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+### WHAT DO YOU SAY?
+### Will <span style="color: #e49436; text-transform: none">Send us to unite 2017</span> ;)
 
 ---
 
