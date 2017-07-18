@@ -2,11 +2,9 @@
 
 #### AN INDUSTRY OF GROWTH
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
+<span style="color:gray">
+Unite is the place to unlock the full creative potential of the Unity engine, meet up and brainstorm with Unity experts and industry leaders, and get a peek at what Unity will bring you in the future.
+</span>
 
 ---
 
