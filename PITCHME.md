@@ -23,9 +23,9 @@ Unite is the place to unlock the full creative potential of the Unity engine, me
 
 <span style="color: #e49436">1. INDUSTRY GROWTH</span>
 
-![MARKDOWN](https://venturebeat.com/wp-content/uploads/2014/08/unity-mobile-game-growth.jpg?resize=838%2C465&strip=all)
+![MARKDOWN](https://unity3d.com/profiles/unity3d/themes/unity/images/company/pr/unity-video-game-market.jpg)
 
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
+34% of top 1000 free mobile games are Made with Unity
 
 ---
 
@@ -33,7 +33,7 @@ Create GitPitch slideshow content using GitHub flavored Markdown in your favorit
 
 ![TERMINAL](https://venturebeat.com/wp-content/uploads/2014/08/unity-productivity1.jpg?resize=847%2C466&strip=all)
 
-Unity Asset Store. As shown above, the amount saved per year adds up to $1.4 billion.
+Through the Unity Asset Store. As shown above, the amount saved per year adds up to $1.4 billion.
 
 ---
 
